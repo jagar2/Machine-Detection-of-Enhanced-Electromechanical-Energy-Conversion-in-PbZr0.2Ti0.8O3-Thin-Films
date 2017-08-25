@@ -1,4 +1,7 @@
 # Machine-Detection-of-Enhanced-Electromechanical-Energy-Conversion-in-PbZr0.2Ti0.8O3-Thin-Films
+
+Author: Joshua C. Agar, joshagar@gmail.com
+
 Controlled manipulation of ferroelectric domain structures is crucial in enabling a range of energy conversion, sensing, and microelectronic applications. Advances in materials synthesis and characterization have resulted in the identification of a range of novel complex domain structures which have necessitated the development of new spectroscopic multidimensional, and data-intensive techniques capable of detecting their responses at relevant length and time scales. Here, using a combination of epitaxial thin-film growth, multidimensional band-excitation scanning probe spectroscopy, and machine learning we develop an approach to instantaneously detect and classify ferroelectric/ferroelastic switching mechanisms in PbZr0.2Ti0.8O3 with hierarchical domain structures. Using this approach, we identify the spatial dependence of ferroelastic switching character resulting from domain geometry, highlighting its role, as a corollary to domain volume fraction, in enhancing nanoscale electromechanical energy conversion. This work demonstrates both the approach and efficacy of machine learning to discover scientific insights shrouded by the size and dimensionality of hyperspectral spectroscopic data.
 
 Download all files including the data file. Setup the cells to point to your file location.
