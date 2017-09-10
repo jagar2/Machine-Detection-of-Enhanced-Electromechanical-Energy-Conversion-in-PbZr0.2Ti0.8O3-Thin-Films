@@ -1,4 +1,4 @@
-# Machine Detection of Enhanced Electromechanical Energy Conversion in PbZr{_0.2}Ti{_0.8}O{_3} Thin Films
+# Machine Detection of Enhanced Electromechanical Energy Conversion in PbZr${_0.2}$Ti${_0.8}$O${_3}$ Thin Films
 
 Author: Joshua C. Agar, joshagar@gmail.com
 
